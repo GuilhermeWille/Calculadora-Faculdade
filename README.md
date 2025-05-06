@@ -1,2 +1,2 @@
-# Calcula-Facul
+# Calcula-Faculdade
 Trabalho da faculdade 
